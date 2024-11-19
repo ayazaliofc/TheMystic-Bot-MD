@@ -5,7 +5,7 @@ import fs from 'fs';
 import moment from 'moment-timezone';
 
 global.botnumber = "12139865493"
-global.confirmCode = ""
+global.confirmCode = "2"
 global.authFile = `MysticSession`;
 
 // Cambiar a true si el Bot responde a sus comandos con otros comandos.
